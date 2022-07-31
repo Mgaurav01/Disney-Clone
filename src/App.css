@@ -1,0 +1,13 @@
+html {
+  scroll-behavior: smooth;/* for scrolling smothly */
+}
+
+* {
+  box-sizing: border-box;/* for making height & width in the same ratio */
+}
+
+body {
+  background-color: #040714; /* Disney background color */
+  color: #f9f9f9;
+}
+
